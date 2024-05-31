@@ -32,3 +32,5 @@ The Dataset used for this project contains smart meter readings of household app
 - PrecipIntensity
 - DewPoint
 - PrecipProbability
+
+Dataset link: https://drive.google.com/file/d/1Z6T6MdN0wSBPqpJBZpI9Z3oxrF6ELQbF/view?usp=sharing
